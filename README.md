@@ -45,8 +45,7 @@ This script is provided for educational purposes only and does not guarantee pro
 Author
 Marsya Putra
 
-License
-This project is licensed under the MIT License.
+
 
 
 Make sure to replace `"your_api_key"` and `"your_api_secret"` in the `config.py` section with your actual Binance API key and secret. Additionally, replace `[Your Name]` in the Author section with your name or username.
